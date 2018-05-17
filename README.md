@@ -1,2 +1,2 @@
 # machine_learning
-# machine_learning
+# other_projects
